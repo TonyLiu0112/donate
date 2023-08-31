@@ -8,11 +8,11 @@ If this plugin helps you, you can buy the author a cup of coffee as encouragemen
 
 ## AliPay
 
-<img src="http://106.54.81.13/alipay.png" style="zoom:5%;" />
+![Alipay][file:aipay.png]
 
 ## Wechat
 
-<img src="http://106.54.81.13/wechet.png" style="zoom:5%;" />
+![Wechat][file:wechet.png]
 
 ## Buy me a coffe
 
