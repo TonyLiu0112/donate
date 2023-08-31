@@ -8,11 +8,11 @@ If this plugin helps you, you can buy the author a cup of coffee as encouragemen
 
 ## AliPay
 
-![Alipay][file:aipay.png]
+![Alipay][file:alipay.png]
 
 ## Wechat
 
-![Wechat][file:wechet.png]
+![Wechet][file:wechet.png]
 
 ## Buy me a coffe
 
