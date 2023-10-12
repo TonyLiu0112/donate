@@ -2,6 +2,10 @@ If this plugin helps you, you can buy the author a cup of coffee as encouragemen
 
 ❤️❤️❤️❤️❤️❤️
 
+## Buy me a coffee
+
+[Buy coffee!](https://www.buymeacoffee.com/tonyliu011t)
+
 ## Paypal
 
 [Donate](https://paypal.me/donateToTony6?country.x=C2&locale.x=zh_XC)
@@ -13,7 +17,3 @@ If this plugin helps you, you can buy the author a cup of coffee as encouragemen
 ## Wechat
 
 ![Wechat](./.github/readme/wechat.svg)
-
-## Buy me a coffe
-
-[Buy coffe!](https://www.buymeacoffee.com/tonyliu011t)
